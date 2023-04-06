@@ -51,15 +51,11 @@ www.amazon.com | www.google.com | www.microsoft.com
 
 ### What was the target server's IP address?
 
-Amazon: 23.36.54.14
-Google: 142.250.217.68
-Microsoft: 23.200.56.161
+Amazon: 23.36.54.14 | Google: 142.250.217.68 | Microsoft: 23.200.56.161
 
 ### How many hops were needed to reach the target?
 
-Amazon: 11
-Google: 10
-Microsoft: 11
+Amazon: 11 | Google: 10 | Microsoft: 11
 
 ### Can you identify your ISP from the intermediate server DNS names?
 
@@ -67,53 +63,52 @@ I can't identify the ISP from the intermediate server DNS names for
 Amazon.com, Google.com, or Microsoft.com.
 
 
-
 ### Identify the "class" of IP address for each major step in the trip
 
 #### Amazon.com
 
-1 (10.18.0.2): Class A
-2 (198.48.66.5): Class C
-3 (10.132.5.75): Class A
-4 (10.132.255.21): Class A
-5 (10.132.255.22): Class A
-6 (209.124.188.134): Class C
-7 (198.71.47.5): Class C
-8 (163.253.1.167)(163.253.1.165): Class B
-9 (162.252.69.123): Class B
-10 (23.203.145.201): Class A
-11 (23.36.54.14): Class A
+1 (10.18.0.2): Class A ( <br> )
+2 (198.48.66.5): Class C ( <br> )
+3 (10.132.5.75): Class A ( <br> )
+4 (10.132.255.21): Class A ( <br> )
+5 (10.132.255.22): Class A ( <br> )
+6 (209.124.188.134): Class C ( <br> )
+7 (198.71.47.5): Class C ( <br> )
+8 (163.253.1.167)(163.253.1.165): Class B ( <br> )
+9 (162.252.69.123): Class B ( <br> )
+10 (23.203.145.201): Class A ( <br> )
+11 (23.36.54.14): Class A ( <br> )
 
 #### Google.com
 
-1 (10.18.0.2): Class A
-2 (198.48.66.5): Class C
-3 (10.132.5.75): Class A
-4 (10.132.255.21): Class A
-5 (10.132.255.22): Class A 
-6 (209.124.190.134): Class C 
-7 (74.125.51.244): Class A 
-8 * * *
-9 (74.125.243.177): Class A 
-  (142.251.50.244): Class B 
-  (216.239.56.222): Class C 
-10 (142.250.217.68): Class B 
-   (74.125.243.189): Class A 
-   (74.125.243.195): Class A
+1 (10.18.0.2): Class A ( <br> )
+2 (198.48.66.5): Class C ( <br> )
+3 (10.132.5.75): Class A ( <br> )
+4 (10.132.255.21): Class A ( <br> )
+5 (10.132.255.22): Class A ( <br> )
+6 (209.124.190.134): Class C ( <br> )
+7 (74.125.51.244): Class A ( <br> )
+8 * * * ( <br> )
+9 (74.125.243.177): Class A ( <br> )
+  (142.251.50.244): Class B ( <br> )
+  (216.239.56.222): Class C ( <br> )
+10 (142.250.217.68): Class B ( <br> )
+   (74.125.243.189): Class A ( <br> )
+   (74.125.243.195): Class A ( <br> )
    
 #### Microsoft.com
 
-1 (10.18.0.2): Class A
-2 (198.48.66.5): Class C
-3 (10.132.5.75): Class A
-4 (10.132.255.21): Class A
-5 (10.132.255.22): Class A
-6 (209.124.188.134): Class C
-7 (198.71.47.5): Class C
-8 (163.253.1.165): Class B
-  (163.253.1.167): Class B
-9 (162.252.69.123): Class B
-10 (23.203.145.157): Class A
+1 (10.18.0.2): Class A ( <br> )
+2 (198.48.66.5): Class C ( <br> )
+3 (10.132.5.75): Class A ( <br> )
+4 (10.132.255.21): Class A ( <br> )
+5 (10.132.255.22): Class A ( <br> )
+6 (209.124.188.134): Class C ( <br> )
+7 (198.71.47.5): Class C ( <br> )
+8 (163.253.1.165): Class B ( <br> )
+  (163.253.1.167): Class B ( <br> )
+9 (162.252.69.123): Class B ( <br> )
+10 (23.203.145.157): Class A ( <br> )
 11 (23.200.56.161): Class A
 
 
