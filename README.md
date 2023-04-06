@@ -42,3 +42,28 @@
   remained the same for the second and third ping.
 
   The IP address remained the same for all three pings for Google and Microsoft.
+  
+  
+# Using "tracert" 
+## Use tracert (or traceroute, depending on your OS) on the following sites:
+www.amazon.com | www.google.com | www.microsoft.com
+
+
+### What was the target server's IP address?
+
+Amazon: 23.36.54.14
+Google: 142.250.217.68
+Microsoft: 23.200.56.161
+
+### How many hops were needed to reach the target?
+
+Amazon: 11
+Google: 10
+Microsoft: 11
+
+### Can you identify your ISP from the intermediate server DNS names?
+
+
+
+### Identify the "class" of IP address for each major step in the trip
+
