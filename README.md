@@ -63,7 +63,57 @@ Microsoft: 11
 
 ### Can you identify your ISP from the intermediate server DNS names?
 
+I can't identify the ISP from the intermediate server DNS names for 
+Amazon.com, Google.com, or Microsoft.com.
+
 
 
 ### Identify the "class" of IP address for each major step in the trip
+
+#### Amazon.com
+
+1 (10.18.0.2): Class A
+2 (198.48.66.5): Class C
+3 (10.132.5.75): Class A
+4 (10.132.255.21): Class A
+5 (10.132.255.22): Class A
+6 (209.124.188.134): Class C
+7 (198.71.47.5): Class C
+8 (163.253.1.167)(163.253.1.165): Class B
+9 (162.252.69.123): Class B
+10 (23.203.145.201): Class A
+11 (23.36.54.14): Class A
+
+#### Google.com
+
+1 (10.18.0.2): Class A
+2 (198.48.66.5): Class C
+3 (10.132.5.75): Class A
+4 (10.132.255.21): Class A
+5 (10.132.255.22): Class A 
+6 (209.124.190.134): Class C 
+7 (74.125.51.244): Class A 
+8 * * *
+9 (74.125.243.177): Class A 
+  (142.251.50.244): Class B 
+  (216.239.56.222): Class C 
+10 (142.250.217.68): Class B 
+   (74.125.243.189): Class A 
+   (74.125.243.195): Class A
+   
+#### Microsoft.com
+
+1 (10.18.0.2): Class A
+2 (198.48.66.5): Class C
+3 (10.132.5.75): Class A
+4 (10.132.255.21): Class A
+5 (10.132.255.22): Class A
+6 (209.124.188.134): Class C
+7 (198.71.47.5): Class C
+8 (163.253.1.165): Class B
+  (163.253.1.167): Class B
+9 (162.252.69.123): Class B
+10 (23.203.145.157): Class A
+11 (23.200.56.161): Class A
+
 
